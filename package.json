@@ -1,0 +1,15 @@
+{
+  "name": "nuevedeoro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "nueve_bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nueve de oro",
+  "license": "ISC",
+  "dependencies": {
+    "telebot": "^1.2.6",
+    "translate-google": "^1.3.5"
+  }
+}
