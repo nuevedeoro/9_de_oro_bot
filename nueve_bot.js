@@ -1,6 +1,6 @@
 const TeleBot = require('telebot');
 
-const bot = new TeleBot('811753782:AAFNJXtWz8l4blzfUqXExQ5FlB1kFCxICPM');
+const bot = new TeleBot('TOKEN');
 
 bot.start();
 
